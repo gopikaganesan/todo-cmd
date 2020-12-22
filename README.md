@@ -6,14 +6,19 @@ You can run this by following Steps
 
 Step 1: 
 	Install jdk latest version(RECOMMENDED) or greater than 8
+	
 Step 2: 
 	Set the environment variable path for java
+	
 Step 3: 
 	Download the source code
+	
 Step 4: 
 	Go the directory which contains your source code using `cd` command in your `CLI`
+	
 Step 5: 
 	Compile the source code `Todo.java` by typing `javac Todo.java`
+	
 Step 6: (Optional)
 	You can create .bat file or .sh file based on your OS for running this code instead of typing the command in step 7
 
