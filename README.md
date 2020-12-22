@@ -23,7 +23,7 @@ Step 6: (Optional)
 
 		Here %n -> n represent nth argument.. You can have 0 to n arguments while running the code
 
-	In Step 7 instead of `java Todo` you can use `todo.bat` for running the code
+In Step 7 instead of `java Todo` you can use `todo.bat` for running the code
 
 	#Since .bat supports only on windows you can try .sh or prefer step 7
 
@@ -33,9 +33,13 @@ Step 7:
 
 
 ###NOTE
-cd - command for change directory
-CLI represents COMMAND LINE INTERFACE
-javac - used for compiling java code
+
+`cd` - command for change directory
+
+`CLI` represents COMMAND LINE INTERFACE
+
+`javac` - used for compiling java code
+
 
 While running the code 2 files are created `todo.txt` and `done.txt`
 
