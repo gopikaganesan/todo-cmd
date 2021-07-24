@@ -1,6 +1,6 @@
 Hey there!!
 
-This is a command line interface Todo app
+This is a Console Todo App
 
 You can run this by following Steps
 
@@ -14,7 +14,7 @@ Step 3:
 	Download the source code
 	
 Step 4: 
-	Go the directory which contains your source code using `cd` command in your `CLI`
+	Go to the directory which contains your source code using `cd` command in your `CLI`
 	
 Step 5: 
 	Compile the source code `Todo.java` by typing `javac Todo.java`
